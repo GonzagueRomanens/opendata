@@ -89,8 +89,6 @@ import TabItem from '@theme/TabItem';
 [`CSV`](https://opendatadocs.meteoswiss.ch/general/download#column-separators-and-decimal-dividers) with an estimated volume of 0.02 MB per file.
 
 ## Metadata {#metadata}
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 <Tabs queryString="metadata">
   <TabItem value="parameters" label="Parameter">
